@@ -1,7 +1,12 @@
 .content{
 padding: 20px;
-margin: 5%; border:solid green;
+margin: 5%; border:solid rgb(134, 190, 134);
 }
 .text{
-    border:dotted black;
+    border:dashed 2px rgb(209, 151, 151);
+    text-align: center;
+    font-size: 60px;
+}
+body{
+    background-color: rgb(203, 214, 181);
 }
